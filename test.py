@@ -14,6 +14,6 @@ def test_getStatus():
    assert bulb.getStatus()=="Bulb is not Glowing"
 
 print("Hello World Hello World")
-prinf("Hi")
+print("Hi")
 
 
